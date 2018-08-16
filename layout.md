@@ -1,5 +1,4 @@
 abstract.html
-figures/D2Q5
 sherr3oku28.html
 untitled.html
 figures/mass
